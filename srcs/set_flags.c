@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   set_flags.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: xzhu <marvin@42.fr>                        +#+  +:+       +#+        */
+/*   By: yehuang <yehuang@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/03 13:38:04 by xzhu              #+#    #+#             */
-/*   Updated: 2018/08/03 13:38:09 by xzhu             ###   ########.fr       */
+/*   Updated: 2020/03/09 14:51:55 by yehuang          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../includes/ft_printf.h"
 
 static void	check_flags(t_pf *p, char c)
 {

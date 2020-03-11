@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   dispatch.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: xzhu <marvin@42.fr>                        +#+  +:+       +#+        */
+/*   By: yehuang <yehuang@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/10 14:17:07 by xzhu              #+#    #+#             */
-/*   Updated: 2018/08/11 23:49:13 by xzhu             ###   ########.fr       */
+/*   Updated: 2020/03/09 15:03:26 by yehuang          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../includes/ft_printf.h"
 
 static t_pick_me	dispatch_table(char c)
 {

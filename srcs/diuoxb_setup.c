@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   diuoxb_setup.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: xzhu <marvin@42.fr>                        +#+  +:+       +#+        */
+/*   By: yehuang <yehuang@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/08/11 21:11:36 by xzhu              #+#    #+#             */
-/*   Updated: 2018/08/11 21:11:37 by xzhu             ###   ########.fr       */
+/*   Updated: 2020/03/09 15:03:32 by yehuang          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../includes/ft_printf.h"
 
 void		setup_padding(t_pf *p)
 {
